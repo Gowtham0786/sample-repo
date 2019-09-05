@@ -1,2 +1,3 @@
-# sample-repo
-Sample Repository for Testing Purpose
+# maven-project
+
+Simple Maven Project
